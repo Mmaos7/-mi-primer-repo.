@@ -1,5 +1,5 @@
-# Mi primer repositorio Autor: Armando Delgado Este es mi primer proyecto con Git y GitHub.
+# Se cambia el texto anterior ya que se perdio ;d la informacióng
 
-#Estoy aprendiendo Git y GitHub.
+# Primer intento de crear una rama en git.
 
 
